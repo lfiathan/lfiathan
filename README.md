@@ -1,13 +1,13 @@
 # Hi there, I'm Alif Aditya 👋
 
-I'm an Informatics Engineering student at PENS with a deep passion for the intersection of **Machine Learning**, **open-source systems**, and **ethical technology**. I enjoy building things that are not only efficient and scalable but also responsible and beneficial. My goal is to leverage technology to solve complex problems and contribute to a better digital future.
+I'm an Informatics Engineering student at PENS with a deep passion for the intersection of **Machine Learning**, **open-source systems**, and **Mobile**. I enjoy building things that are not only efficient and scalable but also responsible and beneficial. My goal is to leverage technology to solve complex problems and contribute to a better future.
 
 ---
 
 ### 🚀 What I'm Currently Focused On
 
 * **Diving deep into Machine Learning** as a cohort in the **[ASAH by Dicoding](https://www.dicoding.com/asah)**.
-* **Leading and contributing** to the **[MODISCH PENS](https://github.com/pens-pbl)** as an Assistant Scrum Master.
+* **Developing and contributing** to the **[MODISCH PENS](https://github.com/pens-pbl)** as an Assistant Scrum Master.
 * **Exploring new technologies** and sharing knowledge as a Staff member in the **IEEE Student Branch PENS** (Technology and Education Division).
 
 ---
@@ -33,8 +33,8 @@ I'm an Informatics Engineering student at PENS with a deep passion for the inter
 
 ### 🌱 I'm Interested In & Eager to Learn More About
 
-* **💬 Ask me about:** Machine Learning concepts, AI Ethics, Linux & Open-Source systems (especially Arch!), neovim(yes im using neovim as my main editor) and team coordination methodologies.
-* **🌱 I’m currently learning:** Advanced Deep Learning architectures and MLOps principles.
+* **💬 Ask me about:** Machine Learning concepts, AI, Linux & Open-Source systems, and lastly neovim(yes im using neovim as my main editor).
+* **🌱 I’m currently learning:** Advanced Deep Learning architectures, Machine learning and Mobile.
 
 ---
 
@@ -42,7 +42,7 @@ I'm an Informatics Engineering student at PENS with a deep passion for the inter
 
 <p align="left">
 <a href="https://www.linkedin.com/in/alif-aditya-isallyouneed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alif-aditya-linkedin" height="30" width="40" /></a>
-<a href="mailto:muhammadalifaditya92@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="alif-aditya-email" height="30" width="40" /></a>
+<a href="mailto:muhammadalifaditya92@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="alif-aditya-email" height="40" width="40" /></a>
 </p>
 
 ---
@@ -50,4 +50,4 @@ I'm an Informatics Engineering student at PENS with a deep passion for the inter
 ### 😄 Fun Facts About Me
 
 * Pronouns: **He/Him**
-* ⚡ outside technology, i actually love history and politic lol
+* ⚡ outside technology, i actually love history, philosophy and politic lol
