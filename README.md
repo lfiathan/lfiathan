@@ -7,7 +7,8 @@ I'm an Informatics Engineering student at PENS with a deep passion for the inter
 ### 🚀 What I'm Currently Focused On
 
 * **Diving deep into Machine Learning** as a cohort in the **[ASAH](https://www.dicoding.com/asah) by [@dicoding](https://github.com/dicodingacademy)**.
-* **Developing and contributing** to the **[MODISCH PENS](https://github.com/pens-pbl)** as an Assistant Scrum Master.
+* **Developing and contributing** to the **[MODISCH PENS](https://github.com/pens-pbl)** as an Scrum Master and Machine Learning Engineer.
+* **Colaborating** to the **[ASAH CAPSTONE PROJECT](https://github.com/telco-system-recommendation)** as Capstone Leader and Machine Learning Engineer
 * **Exploring new technologies** and sharing knowledge as a Staff member in the **IEEE Student Branch PENS** (Technology and Education Division).
 
 ---
