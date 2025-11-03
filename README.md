@@ -1,6 +1,6 @@
 # Hi there, I'm Alif Aditya 👋
 
-I'm an Informatics Engineering student at PENS with a deep passion for the intersection of **Machine Learning**, **open-source systems**, and **Mobile**. I enjoy building things that are not only efficient and scalable but also responsible and beneficial. My goal is to leverage technology to solve complex problems and contribute to a better future.
+I'm an Informatics Engineering student at PENS with a deep passion for the intersection of **Machine Learning**, **operating systems**, and **Backend**. I enjoy building things that are not only efficient and scalable but also responsible and beneficial. My goal is to leverage technology to solve complex problems and contribute to a better future.
 
 ---
 
